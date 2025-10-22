@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 2. 设置页面标题（显示你的名字，记得替换成自己的）
-st.title('California Housing Data (1990) by [你的名字]')
+st.title('California Housing Data (1990) by [Zhang Shiyan]')
 
 # 3. 读取数据集（确保housing.csv和app.py在同一文件夹）
 # 处理可能的编码问题，用encoding='latin-1'兼容多数情况
